@@ -1,0 +1,10 @@
+Package: secondMathNodes
+Type: Package
+Title: A second set of math nodes to test pipelineR
+Version: 0.1.0
+Authors@R: person("Harvey", "Lieberman", email = "harvey.lieberman@gmail.com", role = c("aut", "cre"))
+Description: Additional nodes to test pipelineR.  In particular to check
+    if two packages can be included together
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
